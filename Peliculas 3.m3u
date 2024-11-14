@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="httpss://epg.stationlink.cl/tempest_config/epg/epglista.xml.gz"
+#EXTM3U x-tvg-url="https://epg.stationlink.cl/tempest_config/epg/epglista.xml.gz"
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Accion",2 Fast 2 Furious 2003
 https://144.217.70.79/VODS-M/1080P/2%20Fast%202%20Furious%202003.mkv
 #EXTINF:-1 tvg-name=""tvg-id=""tvg-logo=""group-title="Accion",2 Guns 2013
