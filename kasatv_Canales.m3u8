@@ -1,0 +1,523 @@
+#EXTM3U
+#EXTINF:0,Mega Cine TV
+#EXTGRP:CINE Y SERIES
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8?PlaylistM3UCL
+#EXTINF:0,HBO 2 HD (3)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a021
+#EXTINF:0,GOLDEN PLUS HD (2)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a028
+#EXTINF:0,SPACE HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/space/output.mpd
+#EXTINF:0,CINEMAX HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/cinemax/output.mpd
+#EXTINF:0,AXN 2
+#EXTGRP:CINE Y SERIES
+https://streamer1.nexgen.bz/AXN/index.m3u8
+#EXTINF:0,TNT HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/tnt/output.mpd
+#EXTINF:0,TNT HD (3)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a00s
+#EXTINF:0,TNT SERIES HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/tntseries/output.mpd
+#EXTINF:0,+CINE
+#EXTGRP:CINE Y SERIES
+https://tv.streaming-chile.com:19360/8142/8142.m3u8?PlaylistM3UCL
+#EXTINF:0,Cine Real
+#EXTGRP:CINE Y SERIES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinereallatam-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Cine Sureño
+#EXTGRP:CINE Y SERIES
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinesureno-ono/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,Opinion Sur Cine
+#EXTGRP:CINE Y SERIES
+https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
+#EXTINF:0,Cosmos TV
+#EXTGRP:CINE Y SERIES
+https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8?PlaylistM3UCL
+#EXTINF:0,AXN HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/axn/output.mpd
+#EXTINF:0,A3SERIES HD
+#EXTGRP:CINE Y SERIES
+http://179.49.163.34:45000/play/a038/index.m3u8
+#EXTINF:0,A3CINE HD
+#EXTGRP:CINE Y SERIES
+http://live1.cl.cdn.lla.vtrplay.com/a3cinehdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,A&E HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/ae/output.mpd
+#EXTINF:0,AMC HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/amc/output.mpd
+#EXTINF:0,HBO HD (2)
+#EXTGRP:CINE Y SERIES
+http://45.5.117.182:8000/play/a0e8/index.m3u8
+#EXTINF:0,HBO HD (3)
+#EXTGRP:CINE Y SERIES
+http://168.181.122.234:8000/play/a02o/index.m3u8
+#EXTINF:0,HBO PLUS HD (2)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a05i
+#EXTINF:0,HBO 2 HD (2)
+#EXTGRP:CINE Y SERIES
+http://168.181.122.234:8000/play/a02p/index.m3u8
+#EXTINF:0,HBO FAMILY HD (2)
+#EXTGRP:CINE Y SERIES
+http://168.181.122.234:8000/play/a02r/index.m3u8
+#EXTINF:0,HBO FAMILY HD (3)
+#EXTGRP:CINE Y SERIES
+http://201.219.29.246:8000/play/a030/index.m3u8
+#EXTINF:0,HBO POP HD (2)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a00d
+#EXTINF:0,HBO XTREME HD (2)
+#EXTGRP:CINE Y SERIES
+http://201.219.29.246:8000/play/a031/index.m3u8
+#EXTINF:0,FX HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/fx/output.mpd
+#EXTINF:0,SONY MOVIES HD
+#EXTGRP:CINE Y SERIES
+https://cdn.klowdtv.net/803B48A/n1.klowdtv.net/live1/cine_720p/playlist.m3u8
+#EXTINF:0,STUDIO UNIVERSAL HD (3)
+#EXTGRP:CINE Y SERIES
+http://38.41.8.1:8000/play/a01y
+#EXTINF:0,UNIVERSAL CHANNEL HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/universal/output.mpd
+#EXTINF:0,WARNER CHANNEL HD
+#EXTGRP:CINE Y SERIES
+http://190.11.130.46/mnp/warner/output.mpd
+#EXTINF:0,Space HD 1
+#EXTGRP:CINE Y SERIES
+https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
+#EXTINF:0,Canal13
+#EXTGRP:NACIONAL
+https://m3u.cl/channel/c13.php?PlaylistM3UCL
+#EXTINF:0,Mega HD
+#EXTGRP:NACIONAL
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0,CHILEVISION HD (2)
+#EXTGRP:NACIONAL
+https://edzeta.cl/listas/sp0rts/Chilevision_(HLS).m3u8
+#EXTINF:0,CNN CHILE HD
+#EXTGRP:NACIONAL
+http://201.219.29.246:8000/play/a003/index.m3u8
+#EXTINF:0,CANAL 24 HORAS HD
+#EXTGRP:NACIONAL
+https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
+#EXTINF:0,ZONA LATINA
+#EXTGRP:NACIONAL
+http://200.60.124.19:29000/play/a01p/index.m3u8
+#EXTINF:0,VIA X HD
+#EXTGRP:NACIONAL
+http://200.60.124.19:29000/play/a01c/index.m3u8----------DEPORTES----------
+#EXTINF:0,El Trece
+#EXTGRP:Global
+https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
+#EXTINF:0,TNT ● SPORTS PREMIUM HD | ⚽
+#EXTGRP:DEPORTES
+http://45.169.163.83:8000/play/a1a4
+#EXTINF:0,TNT ● SPORTS PREMIUM HD | ⚽ (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/TNTSP_Premium_HD_-_HLS1.m3u8
+#EXTINF:0,TNT ● SPORTS PREMIUM HD | ⚽ (3)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/TNTSP_Premium_HD_-_HLS3.m3u8
+#EXTINF:0,TNT ● SPORTS PREMIUM HD | ⚽ (4)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/TNTSP_Premium_HD_-_HLS4.m3u8
+#EXTINF:0,TNT ● SPORTS PREMIUM HD | ⚽ (5)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/TNT_Sports_Premium_HD_(Entel).mpd
+#EXTINF:0,TNT ● SPORTS PREMIUM HD ARG | ⚽
+#EXTGRP:DEPORTES
+http://45.5.151.151:8000/play/a002/index.
+#EXTINF:0,ESPN HD (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/ESPN_(Entel).mpd
+#EXTINF:0,ESPN 2 HD (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/ESPN_2_(Entel).mpd
+#EXTINF:0,ESPN 3 HD (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/ESPN_3_(Entel).mpd
+#EXTINF:0,ESPN 4 HD (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/ESPN_4_(Entel).mpd
+#EXTINF:0,ESPN 5 HD (2)
+#EXTGRP:DEPORTES
+https://edzeta.cl/listas/sp0rts/ESPN_5_(Entel).mpd
+#EXTINF:0,Moni TV
+#EXTGRP:INFANTILES
+https://stream.skarnetchile.com:19360/monitvhd/monitvhd.m3u8?PlaylistM3UCL
+#EXTINF:0,Ani Retro
+#EXTGRP:INFANTILES
+https://tv.streaming-chile.com:19360/8068/8068.m3u8?PlaylistM3UCL
+#EXTINF:0,Dreiko TV
+#EXTGRP:INFANTILES
+https://cloudvideo.servers10.com:8081/8096/index.m3u8?PlaylistM3UCL
+#EXTINF:0,BABYFIRST HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/babyfirsthdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,ETC HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/etctvhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,CARTOON NETWORK HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/cartoonhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,CARTOON NETWORK HD (2)
+#EXTGRP:INFANTILES
+http://190.119.127.236:8000/play/a011/index.m3u8
+#EXTINF:0,CARTOONITO HD
+#EXTGRP:INFANTILES
+http://177.93.48.30:8552/play/a00e/index.m3u8
+#EXTINF:0,DISCOVERY KIDS HD
+#EXTGRP:INFANTILES
+http://38.41.8.1:8000/play/a016
+#EXTINF:0,DISNEY CHANNEL HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/disneyhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,DISNEY CHANNEL HD (2)
+#EXTGRP:INFANTILES
+http://38.41.8.1:8000/play/a00q
+#EXTINF:0,DISNEY JR HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/disneyjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,DISNEY JR HD (2)
+#EXTGRP:INFANTILES
+http://38.41.8.1:8000/play/a05l
+#EXTINF:0,NICKELODEON HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/nickhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,NICKELODEON HD (2)
+#EXTGRP:INFANTILES
+http://38.41.8.1:8000/play/a00i
+#EXTINF:0,NICK JR HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/nickjrhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,NICK JR HD (2)
+#EXTGRP:INFANTILES
+http://38.41.8.1:8000/play/a067
+#EXTINF:0,TOONCAST HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,TOONCAST HD (2)
+#EXTGRP:INFANTILES
+http://190.121.192.100:8000/play/a05p/index.m3u8
+#EXTINF:0,DREAMWORKS HD
+#EXTGRP:INFANTILES
+http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD----------MUSICA----------
+#EXTINF:0,MTV 00S HD
+#EXTGRP:MUSICA
+http://190.119.127.236:8000/play/a075/index.m3u8
+#EXTINF:0,MTV HD
+#EXTGRP:MUSICA
+http://190.119.127.236:8000/play/a05q/index.m3u8
+#EXTINF:0,MTV LIVE HD
+#EXTGRP:MUSICA
+http://190.119.127.236:8000/play/a06n/index.m3u8----------CULTURA Y ENTRETENIMIENTO----------
+#EXTINF:0,CANAL 13 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/canal13/canal13.mpd
+#EXTINF:0,CHILEVISION HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dqUhhx1yCBJDp1mzJJA6qg", "kid":"knfaekUMU3qMu2yCnJOLyQ" },{ "kty":"oct", "k":"E6pTzM3gwIdabnVpMs8u9Q", "kid":"hEWhRQNyXVGot2MJPkkH+g" },{ "kty":"oct", "k":"F0VQQyWzeSLA1a2u6sgDwg", "kid":"c+/00+G8XmGaLGIc/6H4gg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/chilevisionhd/chilevisionhd.mpd
+#EXTINF:0,MEGA HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"omisb3BTUd+mx3OY11VZ2A", "kid":"aPEVoOM+XuqA6n1DlAhRIg" },{ "kty":"oct", "k":"RvzUidoRiHnKg53LDMJgyg", "kid":"O0mp7/cJUPilYLh1X+uVAg" },{ "kty":"oct", "k":"zV8aUU7WOnbuyrEZWOPSww", "kid":"vZBRINS1WiSN/5S5by9xQw" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/megahd/megahd.mpd
+#EXTINF:0,TVN HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d/nU1qFwH1NSCLz7WcAxHw", "kid":"qsQrXWpvW+2/1irF/vKJeA" },{ "kty":"oct", "k":"XiOoAFP7J086ASb6KHrrzw", "kid":"4hyVGmZxWcujnAmpRnUfcw" },{ "kty":"oct", "k":"ZJueey+t0p2zVbbbvAxS6w", "kid":"coh5b86yVlucQZ22OLXcGw" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/tvn/tvn.mpd
+#EXTINF:0,TV+ HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"qhtBDVXi9XooWf7qfnvgPw", "kid":"rSj+ax7PX+iNOD1za3fYFw" },{ "kty":"oct", "k":"D3krXBpUggt+Bte2HPHVKw", "kid":"WdXh7WXZXxKsCi1BNk/W2A" },{ "kty":"oct", "k":"OHls8RkhHtY3K5TS5rlbTg", "kid":"HlSrYIXWVvKdrfo1jdJKnA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/tvp/tvp.mpd
+#EXTINF:0,LA RED HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NfN9nS+I1XeyKcaR0bKb4w", "kid":"01LCA+KgVAeNp/FIMa/Klw" },{ "kty":"oct", "k":"9pedu2NSIid/gDddHTnXFA", "kid":"L3IxyNrvWA2zm4uNGMh1hQ" },{ "kty":"oct", "k":"q6rpZWDa2zZcOqzPRQDUdw", "kid":"pHIuTMasW6OVkGscTaTRmA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/lared/lared.mpd
+#EXTINF:0,ESPN PREMIUM HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"x+rfVdrgv95hjjsGbhso6g", "kid":"4TITG4AEWLyasGxvEZaE7A" },{ "kty":"oct", "k":"WfGpBdqxzc7lPZ89NnvNJA", "kid":"xWiw17LzU5SyUUrTtFOsQw" },{ "kty":"oct", "k":"/CxrrJuCKpXgR1za6SCZRA", "kid":"sxv/jim1Wl6UxAj0XPIXRA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/foxsports1/foxsports1.mpd
+#EXTINF:0,ESPN HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dPjqtGweQ/2Pe2TCGpb8Ww", "kid":"kGcRhN2CVBqdF4bqoCXjRQ" },{ "kty":"oct", "k":"RFFEe99V/kRR9KO/F32lmg", "kid":"uH19qIS9XzSWAV+cLlPIlg" },{ "kty":"oct", "k":"dcbm1XMI80ykgoAqXnlqBQ", "kid":"tpiboKoPXoqBfs39nDhZlA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/espn/espn.mpd
+#EXTINF:0,ESPN 2 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MBX9udpV3rVx2xQd2eaniA", "kid":"SnkFDrcQVyu8PPp1cGwUEQ" },{ "kty":"oct", "k":"PzMAJnCPwv3RovDiPO59BA", "kid":"br92QVgVVlixp2XC2Gg10w" },{ "kty":"oct", "k":"QsOr676t6NPMryh32xYvcw", "kid":"iIYJ/A2FUfO3jMAY/mby/g" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/espn2/espn2.mpd
+#EXTINF:0,ESPN 3 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"E0piombH8SyZGHBHK9bKqg", "kid":"f3sW+4VIU0WEkgDBeO5txA" },{ "kty":"oct", "k":"FE2UtV7Nnc/t/0niCdb+ow", "kid":"PH56/q6eVriN7szAbtdFcw" },{ "kty":"oct", "k":"PQbApCxcCr3AtSnVb7iNQw", "kid":"UsazpgNeX2KFgw/LL5GhQA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/espn3/espn3.mpd
+#EXTINF:0,ESPN 4 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NdHEjsJOX3Yu7x+FPPylDw", "kid":"bLa3/xlrXgCSmGUxbSABnw" },{ "kty":"oct", "k":"en18Q+DFMEZj/ccDE+WpuQ", "kid":"ZxgmFkQtUam2lPBoRB7zjQ" },{ "kty":"oct", "k":"HOqya7ue8iJogGJO5J99sw", "kid":"443ecU7nX2qvfpGjMoqrcg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/espnplus/espnplus.mpd
+#EXTINF:0,ESPN 5 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1FazyuiKt/2HupBGknthRg", "kid":"PMsKjc70Wkai/CTkv3vqjA" },{ "kty":"oct", "k":"+0r80+bO7sT5PpRAGi4bSg", "kid":"PXi3cmqtVAqgD9COfDRG9Q" },{ "kty":"oct", "k":"2e55A1+R0WZvp8QMAkkT6g", "kid":"nrRTndHSXkuRldhNVEooOw" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/espn4/espn4.mpd
+#EXTINF:0,ESPN 6 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iUt6843Nu0TXgcXYfRj/1g", "kid":"sfoJzqtdUF2kmlpN2yQkdA" },{ "kty":"oct", "k":"EgWz8pt9nMJ4I7qvqhdbeA", "kid":"MGzcgf4EW86VeZvI61UqSw" },{ "kty":"oct", "k":"hOhtpwfhC4TWKYfeJvDTmg", "kid":"85O4frhTU7id8C2TnSqtAg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
+#EXTINF:0,ESPN 7 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"JBjZmJSbJLznVY2TyjhYIA", "kid":"P5fiZSZWWNKKk8lhQh9pdg" },{ "kty":"oct", "k":"tbrby9+XopAhS175f6z/sQ", "kid":"vAdgdB9mWweSubljnLzeag" },{ "kty":"oct", "k":"ZrlFjgZJjMPjM5eSFzKaRQ", "kid":"mf/BC5gQU1WohzAXKDWd5g" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
+#EXTINF:0,TYC SPORTS HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd----------CINE Y SERIES----------
+#EXTINF:0,CINECANAL HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N8gpQaiNf/+5ILKiXgKXDQ", "kid":"84wOHCBwU0Klw7cU+lrjhQ" },{ "kty":"oct", "k":"pAsZpSC2uHkjR0Z9VdBRcA", "kid":"qhPnvGwrWhuSpXgHKWxUAQ" },{ "kty":"oct", "k":"dLv2md2qzzeXdFNwYiiezw", "kid":"6u/OgO5/WnKkb6DrU94RfQ" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
+#EXTINF:0,DE PELICULA HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Duc1ujfe3hBm9GTtiBA+jA", "kid":"EXkspSAEU1KkFv8hbmwN4Q" },{ "kty":"oct", "k":"sZoLvyDt3956rRhd99EZmQ", "kid":"9aA5YeVWUOussxp6ZO6NpA" },{ "kty":"oct", "k":"sYpCElxPNG8PelttBmNoYw", "kid":"8jlSPgyiWouiwQCxSSeHbA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
+#EXTINF:0,FX HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"i0Sv5q6NpexGOtEr86J/JQ", "kid":"r/AtZMgQW0Gxykp646uTQg" },{ "kty":"oct", "k":"p8uXcoE/2v2t/JaHF6PuBA", "kid":"scbY1DZUXTOBa6VwfKP+Hg" },{ "kty":"oct", "k":"yrEvQCE1+LgDHoBP9JAleA", "kid":"SE0IQJ2qVgGe4mTqlSyvZg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/fx/fx.mpd
+#EXTINF:0,PARAMOUNT CHANNEL HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cDkN+a6yWAa9tnR3jN+fVA", "kid":"JplkkYjlX0GoRiyRseu/pw" },{ "kty":"oct", "k":"mG5rEj9KF0RmbubQaKKPLw", "kid":"ID+Rdx2KUriHsRC90sMJSQ" },{ "kty":"oct", "k":"pATR9JfxWeTrOuUsETf12Q", "kid":"lGSO+ISZXc+1r+H8Eika5A" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/paramount/paramount.mpd
+#EXTINF:0,SPACE HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2u1TmSL54q3RcBApP9o8Ng", "kid":"huZL+YW/WiqLSNseTQ+GDA" },{ "kty":"oct", "k":"WoNKyh0J0S0dVltzuGFsAw", "kid":"EjEoWXhpUrWUeu41+doVrw" },{ "kty":"oct", "k":"YK+CBHd0BiDx5i/MQH333w", "kid":"NkGjl+bnX06HeQ0dZsX3Pg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/spacehd/spacehd.mpd
+#EXTINF:0,STAR CHANNEL HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"zX7mfh9XOLJx4mvRrRLVGQ", "kid":"f8LFNfTGVpCmWiZYC8xQIg" },{ "kty":"oct", "k":"lxhZxBdCDgtCxKq4wmZong", "kid":"jlH4MonUWc6LcoQAxE5iiQ" },{ "kty":"oct", "k":"yDdrmyhI0j8GHe0XeOcM3w", "kid":"u7qbT2QaXFWN5vqQNDeE0Q" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/starchannel/starchannel.mpd
+#EXTINF:0,TNT HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZaIZqmQXvYPGUBg6SC+t8Q", "kid":"5Hd/mUc1VTSNPPkxu0nqOQ" },{ "kty":"oct", "k":"/hFkQYGELm+amtLeWL/elw", "kid":"zt2r9DVHUwqqib8ULBIy7w" },{ "kty":"oct", "k":"aeAi9LG7bvQVSYH8smOkKg", "kid":"jBMEIcbDX223EcpjrBWAvg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
+#EXTINF:0,GLITZ HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"cwszW8wsAY1RURHx9vjj1Q", "kid":"8l+HXhoRW6mgZYHx6F4V1g" },{ "kty":"oct", "k":"5p3u3wpCCGWZoVlOQy6LNg", "kid":"WSusN3ikX7S3tpFwp9Wjjg" },{ "kty":"oct", "k":"+IGN2XYE/dwI+uxBNmT2Gg", "kid":"u7OixdZYUxqqv1vcqbUq0g" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/glitz/glitz.mpd
+#EXTINF:0,HOLA TV HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"RXNtzRgSh6G1vO7gIhzHwQ", "kid":"e9kxLeGYVn26dbDqSGxHiA" },{ "kty":"oct", "k":"H29L6rw3UoQogAfJNr5RmQ", "kid":"O0SxWg+EXP+F9q6LQVdf0g" },{ "kty":"oct", "k":"36eZz+Ixq2hAbs5E8/HleA", "kid":"nVTyrVy3USOR8nkBna3hVg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/holatv/holatv.mpd
+#EXTINF:0,LOVE NATURE HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"fJyKwtjY4LqThTtWPbmWvw", "kid":"HhfJV9LUWSGxXBHy94C/Gg" },{ "kty":"oct", "k":"ztUIqbiVCUpIwI9Uvt5rPA", "kid":"pEWA0zEXVKac06xa4r959g" },{ "kty":"oct", "k":"7vo4my9NTgik1IBWvFWjSQ", "kid":"1QGEm43jX6mZWW7dB73yoA" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://tvup-ccp-live.secure2.footprint.net/lovenature/lovenature.mpd
+#EXTINF:0,MAS CHIC HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NnRZqUlwlsmYnoJw1WwxsQ", "kid":"KdTXggDEWcmkKEn9/NsGIw" },{ "kty":"oct", "k":"uut+03wV//DyQkxvzHIaWA", "kid":"znL93zS+UNynBWblz7+k0Q" },{ "kty":"oct", "k":"1gfxBltff4uj2XWcdDjL1g", "kid":"yuyECKdIVQqX0H5g+Oa4Bg" } ], "type":"temporary" }
+#EXTGRP:unsorted
+https://cdn-live.mundogo.cl/maschic/maschic.mpd
+#EXTINF:0,20º Aniversario: Regreso a Hogwarts
+#EXTGRP:unsorted
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%2020th%20Anniversary%20Return%20to%20Hogwarts%202022.mkv
+#EXTINF:0,ANIMAL PLANET HD (2)
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://38.41.8.1:8000/play/a023
+#EXTINF:0,ANIMAL PLANET HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://live1.cl.cdn.lla.vtrplay.com/animalplanethdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
+#EXTINF:0,DISCOVERY HOME & HEALT HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://38.41.8.1:8000/play/a017
+#EXTINF:0,DISCOVERY THEATER HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://38.41.8.1:8000/play/a018
+#EXTINF:0,DISCOVERY ID HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://livex.pop-app.live/s4n/poplive/ch525/playlist.m3u8
+#EXTINF:0,DISCOVERY TURBO HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://161.132.194.88:6178/play/a02h/index.m3u8
+#EXTINF:0,DISCOVERY WORLD HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://161.132.194.88:6178/play/a0sv/index.m3u8
+#EXTINF:0,EL GOURMET HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://161.132.194.88:6178/play/a0sm/index.m3u8
+#EXTINF:0,FOOD NETWORK HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://161.132.194.88:6178/play/a0t6/index.m3u8
+#EXTINF:0,TLC HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://livex.pop-app.live/s4n/poplive/ch527/playlist.m3u8
+#EXTINF:0,NATGEO HD
+#EXTGRP:CULTURA Y ENTRETENIMIENTO
+http://live1.cl.cdn.lla.vtrplay.com/natgeohdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD----------PELICULAS----------
+#EXTINF:0,Harry Potter y la piedra filosofal
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Sorcerers%20Stone%202001.mkv
+#EXTINF:0,Harry Potter y la cámara secreta
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20And%20The%20Chamber%20Of%20Secrets%202002.mkv
+#EXTINF:0,Harry Potter y el prisionero de Azkaban
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Prisoner%20of%20Azkaban%202004.mkv
+#EXTINF:0,Harry Potter y el cáliz de fuego
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Goblet%20of%20Fire%202005.mkv
+#EXTINF:0,Harry Potter y la Orden del Fénix
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Order%20of%20the%20Phoenix%202007.mkv
+#EXTINF:0,Harry Potter y el misterio del príncipe
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Half-Blood%20Prince%202009.mkv
+#EXTINF:0,Harry Potter y las Reliquias de la Muerte - Parte 1
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%201%202010.mkv
+#EXTINF:0,Harry Potter y las Reliquias de la Muerte - Parte 2
+#EXTGRP:Saga Harry Potter
+http://144.217.70.79/VODS-M/1080P/Harry%20Potter%20and%20the%20Deathly%20Hallows%20Part%202%202011.mkv
+#EXTINF:0,LA ISLA SINIESTRA
+#EXTGRP:Terror  Thriller
+http://144.217.70.79/VODS-M/1080P/Shutter%20Island%202010.mkv
+#EXTINF:0,28 SEMANAS DESPUES (2007)
+#EXTGRP:Terror  Thriller
+http://144.217.70.79/VODS-M/1080P/28%20Weeks%20Later%202007.mkv
+#EXTINF:0,Destino final 2 (2003)
+#EXTGRP:Terror  Thriller
+http://144.217.70.79/VODS-M/1080P/Final%20Destination%202%202003.mkv
+#EXTINF:0,LA TERMINAL (2004)
+#EXTGRP:Comedia  Drama
+http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv
+#EXTINF:0,Pocahontas
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/Pocahontas%201995.mkv
+#EXTINF:0,Eterno resplandor de una mente sin recuerdos (2004)
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/Eternal%20Sunshine%20of%20the%20Spotless%20Mind%202004.mkv
+#EXTINF:0,El Padre (2021)
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/The%20Father%202020.mkv
+#EXTINF:0,El fundador (2016)
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/The%20founder%202016.mp4
+#EXTINF:0,Náufrago (2000)
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/Cast%20Away%202000.mkv
+#EXTINF:0,Más allá de los sueños (1998)
+#EXTGRP:Drama
+http://144.217.70.79/VODS-M/1080P/What%20Dreams%20May%20Come%201998.mkv
+#EXTINF:0,Kick-Ass
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Kick-Ass%202010.mkv
+#EXTINF:0,Total Recall 1990
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Total%20recall%201990.mkv
+#EXTINF:0,Prometheus (2012)
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Prometheus%202012.mkv
+#EXTINF:0,Spider-Man: No Way Home
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Spider%20Man%20No%20Way%20Home%202022.mkv
+#EXTINF:0,Doctor Strange (2016)
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Doctor%20strange%202016.mp4
+#EXTINF:0,Doctor Strangue : Multiverso De Locura (2022)
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Doctor%20Strange%20in%20the%20Multiverse%20of%20Madness%202022.mkv
+#EXTINF:0,Vengadores: Infinity War
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Avengers%20Infinity%20War%202018.mkv
+#EXTINF:0,Vengadores: Endgame
+#EXTGRP:Aventura  Ciencia ficcion
+http://144.217.70.79/VODS-M/1080P/Avengers%20Endgame%202019.mkv
+#EXTINF:0,El Cielo es Real
+#EXTGRP:Drama  Religion
+http://144.217.70.79/VODS-M/1080P/Heaven%20Is%20for%20Real%202014.mkv
+#EXTINF:0,Dios no esta muerto
+#EXTGRP:Drama  Religion
+http://144.217.70.79/VODS-M/1080P/Gods%20Not%20Dead%202014.mkv
+#EXTINF:0,Diario de un Rebelde
+#EXTGRP:Drama  Crimen
+http://144.217.70.79/VODS-M/1080P/The%20Basketball%20Diaries%201995.mkv
+#EXTINF:0,El efecto mariposa (2004)
+#EXTGRP:Drama  Crimen
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%202004.mkv
+#EXTINF:0,El efecto mariposa II (2006)
+#EXTGRP:Drama  Crimen
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%202%202006.mkv
+#EXTINF:0,El efecto mariposa III: Revelaciones (2009)
+#EXTGRP:Drama  Crimen
+http://144.217.70.79/VODS-M/1080P/The%20Butterfly%20Effect%203%20Revelations%202009.mkv
+#EXTINF:0,El Rey Leon 1994
+#EXTGRP:Drama  Aventura
+http://144.217.70.79/VODS-M/1080P/The%20Lion%20King%201994.mkv
+#EXTINF:0,Un puente hacia Terabithia
+#EXTGRP:Drama  Aventura
+http://144.217.70.79/VODS-M/1080P/Bridge%20to%20Terabithia%202007.mkv
+#EXTINF:0,The Discovery
+#EXTGRP:Drama  Thriller
+http://144.217.70.79/VODS-M/1080P/The%20Discovery%202017.mkv
+#EXTINF:0,Mystic River (2003)
+#EXTGRP:Drama  Thriller
+http://144.217.70.79/VODS-M/1080P/Mystic%20River%202003.mkv
+#EXTINF:0,La Llave Mastra (2005)
+#EXTGRP:Terror
+http://144.217.70.79/VODS-M/1080P/The%20Skeleton%20Key%202005.mkv----------COMEDIA----------
+#EXTINF:0,Honey I Blew Up the Kid
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Honey%20I%20Blew%20Up%20the%20Kid%201992.mkv
+#EXTINF:0,Detective en el Kindergarden
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Kindergarten%20Cop%201990.mkv
+#EXTINF:0,Mi pobre Angelito 1
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Home%20Alone%201990.mkv
+#EXTINF:0,Mi pobre Angelito 2
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Home%20Alone%202%20Lost%20in%20New%20York%201992.mkv
+#EXTINF:0,Aladdin
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Aladdin%20And%20The%20King%20Of%20Thieves%201996.mkv
+#EXTINF:0,Ricky Ricon
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Richie%20Rich%201994.mkv
+#EXTINF:0,DeadPool (2016)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Deadpool%202016.mkv
+#EXTINF:0,DeadPool 2 (2018)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Deadpool%202%202018.mkv
+#EXTINF:0,21 Jump Street (2012)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/21%20Jump%20Street%202012.mkv
+#EXTINF:0,Forgetting Sarah Marshall (2008)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Forgetting%20Sarah%20Marshall%202008.mkv
+#EXTINF:0,Hombres de negro II (2002)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Men%20In%20Black%20II%202002.mkv
+#EXTINF:0,Hombres de negro III (2012)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Men%20in%20Black%203%202012.mkv
+#EXTINF:0,Superdetective en Hollywood II (1987)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Beverly%20Hills%20Cop%202%201987.mkv
+#EXTINF:0,Superdetective en Hollywood III (1994)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Beverly%20Hills%20Cop%203%201994.mkv
+#EXTINF:0,Virgen a los 40
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/The%2040-Year-Old%20Virgin%202005.mkv
+#EXTINF:0,American Pie (1999)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%201999.mkv
+#EXTINF:0,American Pie 2 (2001)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%202%202001.mkv
+#EXTINF:0,American Pie Presenta: Band Camp (2005)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Band%20Camp%202005.mkv
+#EXTINF:0,American Pie Presenta: Una fiesta de pelotas (2006)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20The%20Naked%20Mile%202006.mkv
+#EXTINF:0,American Pie Presenta: Fraternidad Beta (2007)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Beta%20House%202007.mkv
+#EXTINF:0,American Pie Presenta: El libro del amor (2009)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20The%20Book%20of%20Love%202009.mkv
+#EXTINF:0,American Pie: El reencuentro (2012)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Reunion%202012.mkv
+#EXTINF:0,American Pie Presenta: Las chicas mandan (2020)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/American%20Pie%20Presents%20Girls%20Rules%202020.mkv
+#EXTINF:0,Dick y Jane, ladrones de risa (2005)
+#EXTGRP:Comedia
+http://144.217.70.79/VODS-M/1080P/Fun%20with%20Dick%20and%20Jane%202005.mkv
