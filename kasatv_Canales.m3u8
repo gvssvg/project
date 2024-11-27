@@ -43,7 +43,7 @@ https://fl1002.bozztv.com/ssh101/opinionsur/index.m3u8?PlaylistM3UCL
 https://videostream.shockmedia.com.ar:19360/cosmostv/cosmostv.m3u8?PlaylistM3UCL
 #EXTINF:0,AXN HD
 #EXTGRP:CINE Y SERIES
-http://190.11.130.46/mnp/axn/output.mpd
+http://190.11.130.46/mnp/axn/output.mpdf
 #EXTINF:0,A3SERIES HD
 #EXTGRP:CINE Y SERIES
 http://179.49.163.34:45000/play/a038/index.m3u8
@@ -118,7 +118,7 @@ https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8
 http://200.60.124.19:29000/play/a01p/index.m3u8
 #EXTINF:0,VIA X HD
 #EXTGRP:NACIONAL
-http://200.60.124.19:29000/play/a01c/index.m3u8----------DEPORTES----------
+http://200.60.124.19:29000/play/a01c/index.m3u8
 #EXTINF:0,El Trece
 #EXTGRP:Global
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL
@@ -214,7 +214,7 @@ http://live1.cl.cdn.lla.vtrplay.com/tooncastsdchi/vxfmt=dp/playlist.m3u8?device_
 http://190.121.192.100:8000/play/a05p/index.m3u8
 #EXTINF:0,DREAMWORKS HD
 #EXTGRP:INFANTILES
-http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD----------MUSICA----------
+http://live1.cl.cdn.lla.vtrplay.com/dreamworkshdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:0,MTV 00S HD
 #EXTGRP:MUSICA
 http://190.119.127.236:8000/play/a075/index.m3u8
@@ -223,7 +223,7 @@ http://190.119.127.236:8000/play/a075/index.m3u8
 http://190.119.127.236:8000/play/a05q/index.m3u8
 #EXTINF:0,MTV LIVE HD
 #EXTGRP:MUSICA
-http://190.119.127.236:8000/play/a06n/index.m3u8----------CULTURA Y ENTRETENIMIENTO----------
+http://190.119.127.236:8000/play/a06n/index.m3u8
 #EXTINF:0,CANAL 13 HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"NyCKl8fwHt9SPtdXXVup9A", "kid":"VzdZuIhvXamSo8zOva6yHQ" },{ "kty":"oct", "k":"1oEjgsMbH+68Ukx1yiyZ7Q", "kid":"Wv/ZEqcIUEabrubtIQNdHA" },{ "kty":"oct", "k":"DCMFnyVyNIvc+KQXTctrqA", "kid":"+wF5ZnvWUr66PEtryUjYRw" } ], "type":"temporary" }
 #EXTGRP:unsorted
 https://cdn-live.mundogo.cl/canal13/canal13.mpd
@@ -268,7 +268,7 @@ https://cdn-live.mundogo.cl/foxsports3/foxsports3.mpd
 https://cdn-live.mundogo.cl/foxsports2/foxsports2.mpd
 #EXTINF:0,TYC SPORTS HD#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MQrvhoM8JmlsH2aCk0Uwzg", "kid":"HGcfIC8DX8aCleKFRA4fBg" },{ "kty":"oct", "k":"rzBjcCC9gGUO96x6V/BUBQ", "kid":"MmnMH/3IVtOdbSesquucVw" },{ "kty":"oct", "k":"qunyrZDV0p20MUWGr5tBTw", "kid":"mMCh+w1CX4i/4cKtCYV1rg" } ], "type":"temporary" }
 #EXTGRP:unsorted
-https://cdn-live.mundogo.cl/tycsports/tycsports.mpd----------CINE Y SERIES----------
+https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
 #EXTINF:0,CINECANAL HD (2)#KODIPROP:inputstream.adaptive.license_type=clearkey#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"N8gpQaiNf/+5ILKiXgKXDQ", "kid":"84wOHCBwU0Klw7cU+lrjhQ" },{ "kty":"oct", "k":"pAsZpSC2uHkjR0Z9VdBRcA", "kid":"qhPnvGwrWhuSpXgHKWxUAQ" },{ "kty":"oct", "k":"dLv2md2qzzeXdFNwYiiezw", "kid":"6u/OgO5/WnKkb6DrU94RfQ" } ], "type":"temporary" }
 #EXTGRP:unsorted
 https://cdn-live.mundogo.cl/cinecanalhd/cinecanalhd.mpd
